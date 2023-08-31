@@ -1,17 +1,20 @@
-- 👋 Hi, I’m @sahilrahane
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning first year electical enginnering
-- 💞️ I’m looking to collaborate on sanjivani college of enginnering
-- 📫 How to reach me 
-
-<!---
-MY NAME IS RAHANE SAHIL DIPAK 
-ADDRESS-CHANDANAPURI SANGAMNER AHAMADNAGAR
-COLLEGE NAME- SANJIVANI COLLEGE OF ENGINEERING KOPARGAON
---->
-@@ -1,4 +1,4 @@
-# Speka
-# Speka (deprecated)
-Speka: a tiny OO language
-Speka is a really small language I designed in order to learn how to write an interpreter.
-It has a simple syntax (for now), and is really easy to be implemented, yet powerful.
+<!DOCTYPE HTML>
+<HYML>
+<HEAD> 
+  <h1> SANJIVANI ENGINEERING COLLEGE KOPARGAON</h1>
+<BODY>
+  NAME-<INPUT TYPE="TEXT" NAME="AB">
+  ADDRESS-<TEXTAREA HEIGHT="55" WEIGHT="20"> </TEXTAREA>
+GENDER-
+<INPUT TYPE="RADIO" NAME="AC">MALE
+<INPUT TYPE="RADIO" NAME="AC">FEMALE
+HOBBIES-
+<INPUT TYPE="CHECKBOX" NAME="S"> PLAYING CRICKET
+<INPUT TYPE="CHECKBOX" NAME="H"> HOCKEY
+<INPUT TYPE="CHECKBOX" NAME="LK"> SWIMMING
+<INPUT TYPE="CHECKBOX" NAME="JH"> CYCLING
+<INPUT TYPE="SUBMIT" NAME="KJ" BUTTON="OK">
+<INPUT TYPE="RESET" NAME="JH" BUTTON="CANCEL">
+  </HTML>
+  </HEAD>
+  </BODY>
